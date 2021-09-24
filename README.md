@@ -1,2 +1,4 @@
 # my-first-repo
-git@github.com:khaliap/my-first-repo.git
+My name is Khalia Parris 
+Im 19 years old 
+I live in Brookkyn NY
